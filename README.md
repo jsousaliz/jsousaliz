@@ -40,6 +40,3 @@ Desenvolvo sistemas corporativos desde 2010. Meu foco está em Delphi/Object Pas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-**Aberto a oportunidades 100% remotas como Desenvolvedor Delphi Sênior — CLT ou PJ.**
